@@ -1,3 +1,8 @@
+# Plan de Contingencia
+
+Aquí abajo va el diagrama de flujo en Mermaid:
+
+```mermaid```
 flowchart TD
   %% Definición de swimlanes
   subgraph Operaciones
